@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-05-16",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Doctor Appointment",
+    "date": "2025-05-16",
+    "time": "15:00",
+    "duration": "30m"
+  },
+  {
+    "title": "Code Review",
+    "date": "2025-05-20",
+    "time": "11:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Interview Call",
+    "date": "2025-05-22",
+    "time": "14:00",
+    "duration": "45m"
+  }
+]
